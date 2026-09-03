@@ -7,7 +7,7 @@ This project is about basic of computer, their type history and tools used in co
 
 ## Introduction to computer
 
-A computer is electronic device to which we give input the computer process it and give us output
+A computer is electronic device to which we give input the computer process it and give us output.Computer is essential for all daily life it is used everywhere in office, homes etc
 
 ## TYPES OF COMPUTER 
 
