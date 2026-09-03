@@ -41,3 +41,29 @@ Markdown
 - [] create a pull request
 - [] review the changes
 - [] merge the Pull request into main.
+
+
+## STUDENT INFORMATION 
+
+
+*NAME* ABDUL HASEEB MUGHAL
+*ROLL NO.* 26K-3177
+
+ITALIC WAY 
+
+Computers are *very important* in daily life 
+
+A TABLE 
+
+|TYPE |SPEED|
+|-----|------|
+|SUPERCOMPUTER |VERY high|
+|microcomputer|moderate|
+
+A LINK 
+
+[Learn more here ](https://en.wikimedia.org/wiki/Computer)
+
+A PICTURE 
+
+![Computer](https://clipart-library.com/8300/2368/desktop-personal-computer-clipart-md.png)
