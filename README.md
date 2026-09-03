@@ -11,7 +11,7 @@ A computer is electronic device to which we give input the computer process it a
 
 ## TYPES OF COMPUTER 
 
-- Super computer
+- Super computer - very large and powerful computer used for big calculation an scientific research 
 - Mainframe computer
 - Mini computer
 -     Microcomputer 
